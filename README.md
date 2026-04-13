@@ -1,1 +1,1 @@
-# document-copilot
+# eswg-copilot
